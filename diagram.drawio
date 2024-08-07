@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="VY4UFkYOV32-MJ5bh-Qb" name="Page-1">
+        <mxGraphModel dx="569" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Class: Song&lt;br&gt;&lt;br&gt;Class Attributes: Songs&lt;br&gt;&lt;br&gt;Class Methods: song.count, song.genres, song.genre_count, song.artist_count&amp;nbsp;&lt;br&gt;&lt;br&gt;Instance Attributes:&amp;nbsp; name, artist, genre&lt;br&gt;&lt;br&gt;Instance Methods: has_song_count, has_genres, has_artists, has_genre_count, has_artist_count&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="100" width="360" height="190" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
